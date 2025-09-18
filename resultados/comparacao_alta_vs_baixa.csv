@@ -1,2 +1,0 @@
-lambda_alta,lambda_baixa,tau_alta,tau_baixa,pi_sold,E[S],E[Ciclo]_alta,E[Ciclo]_baixa,E[TOM]_teorico_alta,E[TOM]_teorico_baixa,E[TOM]_sim_alta,E[TOM]_sim_baixa,var_%_E[Ciclo],var_%_E[TOM]_teorico,var_%_E[TOM]_sim
-0.08,0.04,1.0,1.0,0.6376610505450941,4.578790882061448,17.078790882061448,29.578790882061448,26.783493938451976,46.3863848305875,27.208946893274643,47.14188608560341,73.19019294936892,73.1901929493689,73.25876767856708
